@@ -1,2 +1,17 @@
-<h1>Tickets#edit</h1>
-<p>Find me in app/views/tickets/edit.html.erb</p>
+<h1>Editing Ticket</h1>
+<%= form_for @ticket do |t| %>
+  <p>
+    <%= t.label :title %>
+    <%= t.text_field :title %>
+  </p>
+  <p>
+    <%= t.label :category %>
+    <%= t.text_field :category %>
+  </p>
+  <p>
+    <%= t.label :content %>
+    <%= t.text_area :content %>
+  </p>
+  <p>
+    <%= t.submit %>
+<% end %>

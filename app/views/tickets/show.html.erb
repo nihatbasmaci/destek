@@ -1,2 +1,4 @@
-<h1>Tickets#show</h1>
-<p>Find me in app/views/tickets/show.html.erb</p>
+<h1>Title: <%= @ticket.title %></h1>
+<p> Category: <%= @ticket.category %></p>
+<p> Content: <%= @ticket.content %></p>
+<%= link_to "Edit_Ticket", edit_ticket_path(@ticket) %>

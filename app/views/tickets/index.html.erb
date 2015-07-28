@@ -1,2 +1,17 @@
-<h1>Tickets#index</h1>
-<p>Find me in app/views/tickets/index.html.erb</p>
+<h1>Listing Tickets</h1>
+
+<table>
+  <tr>
+    <th>Title</th>
+    <th>Text</th>
+  </tr>
+
+  <% @tickets.each do |ticket| %>
+    <tr>
+      <td><%= ticket.title %></td>
+      <td><%= ticket.category %></td>
+      <td><%= ticket.content %></td>
+    </tr>
+  <% end %>
+</table>
+
