@@ -1,10 +1,11 @@
 ---------------------------------------------------------------------------
 
 
-Bu depo UZEM Akademi Yazılım Kampı 2015 'de verilmiş bir proje deposudur.
-Bu proje bir Mobil Açık ve Web Uygulaması'dır.
+**Bu depo UZEM Akademi Yazılım Kampı 2015 'de verilmiş bir proje deposudur.**
 
-Yazılım Kampı Nedir?
+**Bu proje bir Mobil Açık ve Web Uygulaması'dır.**
+
+####Yazılım Kampı Nedir?
 
 Yazılım Kampı teknoloji dünyasına meraklı yazılımcıları bir araya toplamayı
 amaçladığımız bir etkinliktir. 2014 yılında birincisi düzenlenen bu etkinliğin
@@ -16,7 +17,7 @@ Kamp süresince birçok konu hakkında eğitimler verdik. Sonuna yaklaştığım
 süreçte yoğun bir uygulama haftasına adım atmış bulunmaktayız.
 Bu uygulama haftasında katılımcılara projeler verdik.
 
-Mobil Açık Nedir?
+####Mobil Açık Nedir?
 
 Günümüzde herkesin kullandığı mobil cihazlar(akıllı telefonlar,tabletler, akıllı
 bileklikler,akıllı saatler) için özel olarak geliştirilen uygulamalara "Mobil
